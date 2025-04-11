@@ -1,5 +1,7 @@
 package org.example.sprint2;
 
 public class A {
-    double
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
